@@ -1,11 +1,9 @@
 resources:
-- alertmanager_crd_0_53_1.yaml
-- alertmanagerconfig_crd_0_53_1.yaml
-- podmonitor_crd_0_53_1.yaml
-- probe_crd_0_53_1.yaml
-- prometheus_crd_0_53_1.yaml
-- prometheusrule_crd_0_53_1.yaml
-- servicemonitor_crd_0_53_1.yaml
-- thanosruler_crd_0_53_1.yaml
-
-
+- alertmanager_crd_0_68_0.yaml
+- alertmanagerconfig_crd_0_68_0.yaml
+- podmonitor_crd_0_68_0.yaml
+- probe_crd_0_68_0.yaml
+- prometheus_crd_0_68_0.yaml
+- prometheusrule_crd_0_68_0.yaml
+- servicemonitor_crd_0_68_0.yaml
+- thanosruler_crd_0_68_0.yaml
